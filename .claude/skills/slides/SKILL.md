@@ -1,6 +1,6 @@
 ---
 name: slides
-description: Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.
+description: "创建策略性 HTML 演示文稿，支持 Chart.js、设计令牌、响应式布局、文案公式和上下文幻灯片策略。"
 argument-hint: "[topic] [slide-count]"
 metadata:
   author: claudekit

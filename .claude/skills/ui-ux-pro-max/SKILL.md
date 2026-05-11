@@ -1,6 +1,6 @@
 ---
 name: ui-ux-pro-max
-description: "UI/UX design intelligence for web and mobile. Includes 50+ styles, 161 color palettes, 57 font pairings, 161 product types, 99 UX guidelines, and 25 chart types across 10 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, and HTML/CSS). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, and check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, and mobile app. Elements: button, modal, navbar, sidebar, card, table, form, and chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, and flat design. Topics: color systems, accessibility, animation, layout, typography, font pairing, spacing, interaction states, shadow, and gradient. Integrations: shadcn/ui MCP for component search and examples."
+description: "面向 Web 和移动端的 UI/UX 设计智能。包含 50+ 种风格、161 种配色方案、57 种字体搭配、161 种产品类型、99 条 UX 指导原则，以及覆盖 10 种技术栈（React、Next.js、Vue、Svelte、SwiftUI、React Native、Flutter、Tailwind、shadcn/ui、HTML/CSS）的 25 种图表类型。操作：规划、构建、创建、设计、实现、审查、修复、改进、优化、增强、重构、检查 UI/UX 代码。项目类型：网站、落地页、仪表盘、管理面板、电商、SaaS、作品集、博客、移动应用。组件：按钮、弹窗、导航栏、侧边栏、卡片、表格、表单、图表。风格：玻璃拟态、粘土拟态、极简主义、粗野主义、新拟态、Bento 网格、暗色模式、响应式、拟物化、扁平化设计。主题：配色系统、无障碍、动画、布局、排版、字体搭配、间距、交互状态、阴影、渐变。集成：shadcn/ui MCP 组件搜索与示例。"
 ---
 
 # UI/UX Pro Max - Design Intelligence

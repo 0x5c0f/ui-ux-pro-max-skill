@@ -1,6 +1,6 @@
 ---
 name: design
-description: "Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini AI), corporate identity program (50 deliverables, CIP mockups), HTML presentations (Chart.js), banner design (22 styles, social/ads/web/print), icon design (15 styles, SVG, Gemini 3.1 Pro), social photos (HTML→screenshot, multi-platform). Actions: design logo, create CIP, generate mockups, build slides, design banner, generate icon, create social photos, social media images, brand identity, design system. Platforms: Facebook, Twitter, LinkedIn, YouTube, Instagram, Pinterest, TikTok, Threads, Google Ads."
+description: "综合设计技能：品牌识别、设计令牌、UI 样式、Logo 生成（55 种风格，Gemini AI）、企业形象手册（50 项交付物，CIP 模板）、HTML 演示文稿（Chart.js）、横幅设计（22 种风格，社交/广告/网页/印刷）、图标设计（15 种风格，SVG，Gemini 3.1 Pro）、社交图片（HTML→截图，多平台）。操作：设计 Logo、创建 CIP、生成模板、制作幻灯片、设计横幅、生成图标、创建社交图片、社交媒体图片、品牌识别、设计系统。平台：Facebook、Twitter、LinkedIn、YouTube、Instagram、Pinterest、TikTok、Threads、Google Ads。"
 argument-hint: "[design-type] [context]"
 license: MIT
 metadata:

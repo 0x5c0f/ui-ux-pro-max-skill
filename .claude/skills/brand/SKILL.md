@@ -1,6 +1,6 @@
 ---
 name: brand
-description: Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.
+description: "品牌声音、视觉识别、信息框架、资产管理、品牌一致性。用于品牌内容、语调、营销资产、品牌合规、风格指南。"
 argument-hint: "[update|review|create] [args]"
 metadata:
   author: claudekit
